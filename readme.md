@@ -21,4 +21,4 @@ This React Native project demonstrates how to integrate Zoom Meetings into a mob
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/react-native-zoom-integration.git
+   git clone https://github.com/your-username/video-sdk-zoom.git
