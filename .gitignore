@@ -33,3 +33,25 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+
+# Dependency directories
+node_modules/
+android/.gradle/
+ios/Pods/
+ios/Podfile.lock
+ios/Podfile
+
+# React Native Stack-specific files
+android/app/build/
+ios/build/
+ios/Pods/
+
+# React Native project settings
+.vscode/
+*.iml
+*.log
+
+# Application bundle files
+*.jsbundle
+*.bundle
